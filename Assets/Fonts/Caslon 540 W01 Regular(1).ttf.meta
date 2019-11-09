@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e7cfbf9f497687a428e646e86e6ce27d
+timeCreated: 1540435105
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Caslon540W01-Regular
+  fontNames:
+  - Caslon540W01-Regular
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
